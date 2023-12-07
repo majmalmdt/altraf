@@ -1,0 +1,1 @@
+import{b as s,a as o}from"./index.032997c5.js";const i=o.create({baseURL:"https://api.example.com"});var t=s(({app:a})=>{a.config.globalProperties.$axios=o,a.config.globalProperties.$api="xsxsxsxx"});export{i as api,t as default};

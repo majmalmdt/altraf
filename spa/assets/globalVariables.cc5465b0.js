@@ -1,0 +1,1 @@
+import{b as t,a as r}from"./index.032997c5.js";var l=t(async({app:o})=>{o.config.globalProperties.$API_URL="/api",o.config.globalProperties.$REQUEST_NEWS=async function(){try{let{data:a}=await r.get("http://localhost:3012/api/get-news");return a}catch(a){console.log(a)}}});export{l as default};
